@@ -1,0 +1,21 @@
+/* This part is now complete for the exercise */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+}
